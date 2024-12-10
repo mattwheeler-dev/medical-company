@@ -1,8 +1,10 @@
-const App = () => {
+import Nav from "./components/Nav";
 
+const App = () => {
   return (
     <>
-    <h1>React Medical Site</h1>
+    <Nav />
+    <h1>Aegis Medical</h1>
     </>
   )
 }

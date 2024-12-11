@@ -1,3 +1,11 @@
+:root {
+--blue: #38b6ff;
+--yellow: #ffd230;
+--gray: #252525;
+--border: 2px solid var(--blue);
+--radius: 0.3rem;
+}
+
 * {
     margin: 0;
     padding: 0;

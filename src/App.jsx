@@ -4,7 +4,7 @@ const App = () => {
   return (
     <>
     <Nav />
-    <h1>Aegis Medical</h1>
+    <h1>Aegis Healthcare</h1>
     </>
   )
 }

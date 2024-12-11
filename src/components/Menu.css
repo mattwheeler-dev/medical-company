@@ -1,0 +1,9 @@
+.menu {
+    height: 100dvh;
+    width: 40dvw;
+    background-color: #fff;
+    border-right: var(--border);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
